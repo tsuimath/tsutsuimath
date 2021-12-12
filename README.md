@@ -1,5 +1,5 @@
 ### Hey! Nice to see you.
-<p>Welcome to my page! </br> I'm Matheus Tsutsui, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brasil</b>, currently working for a <img src="https://cdn-icons.flaticon.com/png/512/4855/premium/4855806.png?token=exp=1638539553~hmac=a2439218cd2bf1b8aa437af1e07735a9" width="13"/> <b>Germany</b> company. </p>
+<p>Welcome to my page! </br> I'm Matheus Tsutsui, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brasil</b>, currently working for a <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Germany</b> company. </p>
 
 <div>
   <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=flat-icon&logo=apple&logoColor=white" />
